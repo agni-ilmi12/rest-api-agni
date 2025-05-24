@@ -1,30 +1,30 @@
 [
     {
-        "nama": "Sandhika",
-        "umur": 32,
-        "nrp": "043040023",
+        "nama": "Agni Ilmi Anaya",
+        "umur": 21,
+        "nim": "2217020065",
         "lulus": true,
         "hobby": [
-            "coding",
+            "basketball",
             "gaming"
         ],
         "pembimbing": {
-            "pembimbing1": "Doddy Ferdiansyah",
-            "pembimbing2": "Erik Doank"
+            "pembimbing1": "Haditya Prasetyo M.Kom",
+            "pembimbing2": "Novia Lestari M.Kom"
         }
     },
     {
-        "nama": "Sandhika",
-        "umur": 32,
-        "nrp": "043040023",
+        "nama": "Agni Ilmi Anaya",
+        "umur": 21,
+        "nim": "2217020065",
         "lulus": true,
         "hobby": [
-            "coding",
+            "traveling",
             "gaming"
         ],
         "pembimbing": {
-            "pembimbing1": "Doddy Ferdiansyah",
-            "pembimbing2": "Erik Doank"
+            "pembimbing1": "Haditya Prasetyo M.Kom",
+            "pembimbing2": "Novia Lestari M.Kom"
         }
     }
 ]
