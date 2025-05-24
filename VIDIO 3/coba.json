@@ -5,7 +5,7 @@
         "nim": "2217020065",
         "lulus": true,
         "hobby": [
-            "basketball",
+            "traveling",
             "gaming"
         ],
         "pembimbing": {
@@ -14,17 +14,17 @@
         }
     },
     {
-        "nama": "Agni Ilmi Anaya",
+        "nama": "Anita",
         "umur": 21,
-        "nim": "2217020065",
+        "nim": "2217020046",
         "lulus": true,
         "hobby": [
-            "traveling",
-            "gaming"
+            "traditional dance",
+            "watching"
         ],
         "pembimbing": {
             "pembimbing1": "Haditya Prasetyo M.Kom",
-            "pembimbing2": "Novia Lestari M.Kom"
+            "pembimbing2": "Ahmad Fauzi"
         }
     }
 ]
