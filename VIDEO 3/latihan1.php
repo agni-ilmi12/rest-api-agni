@@ -13,7 +13,7 @@
 //     ]
 // ];
 
-$dbh = new PDO('mysql:host=localhost;dbname=phpdasar', 'root', 'root');
+$dbh = new PDO('mysql:host=localhost;dbname=iap_uas', 'root', '');
 $db = $dbh->prepare('SELECT * FROM mahasiswa');
 $db->execute();
 $mahasiswa = $db->fetchAll(PDO::FETCH_ASSOC);
