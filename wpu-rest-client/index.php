@@ -99,6 +99,8 @@ switch (ENVIRONMENT)
  */
 	$system_path = 'system';
 
+
+	
 /*
  *---------------------------------------------------------------
  * APPLICATION DIRECTORY NAME
